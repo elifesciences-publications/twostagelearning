@@ -1,7 +1,8 @@
 # Matching tutor to student: rules and mechanisms for efficient two-stage learning in neural circuits
 Authors: Tiberiu Tesileanu, Bence Olveczky, Vijay Balasubramanian
 
-This repository contains the code and data for our paper on efficient two-stage learning in songbirds (and beyond). Please see "Rules and mechanisms for efficient two-stage learning in neural circuits", eLife, 2017. http://dx.doi.org/10.7554/eLife.20944
+### This code is associated with the paper from Teşileanu et al., "Rules and mechanisms for efficient two-stage learning in neural circuits". eLife, 2017. http://dx.doi.org/10.7554/eLife.20944
+
 
 Most of the detailed simulation code is contained in the files `simulation.py` and `basic_defs.py`. There are tests checking that the code works properly, contained in `tests.py`. It's a good idea to run this script first after downloading the code to make sure that everything is set up correctly.
 
